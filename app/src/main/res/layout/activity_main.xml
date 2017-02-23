@@ -18,6 +18,18 @@
         android:layout_gravity="center"
         android:src="@drawable/dspca_logp"
         />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select from the following"
+            android:textSize="20dp"/>
+
+
+    </LinearLayout>
 
     <LinearLayout
         android:layout_width="wrap_content"
